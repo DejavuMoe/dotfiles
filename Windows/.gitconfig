@@ -1,0 +1,12 @@
+[gpg]
+	program = C:\\\\Scoop\\\\apps\\\\gpg\\\\current\\\\bin\\\\gpg.exe
+[user]
+	signingkey = AB85E2D677CA9A84
+	name = DejavuMoe
+	email = admin@dejavu.moe
+[commit]
+	gpgsign = true
+[core]
+	sshcommand = plink -agent
+[init]
+	defaultBranch = master
