@@ -8,5 +8,11 @@
 	gpgsign = true
 [core]
 	sshcommand = plink -agent
+	autocrlf = true
+	safecrlf = warn
 [init]
 	defaultBranch = master
+[credential "helperselector"]
+	selected = <no helper>
+[color]
+	ui = auto

@@ -11,10 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:q
-|2,0,1647518298,,"q"
 :wq
-|2,0,1647438865,,"wq"
+|2,0,1648308151,,"wq"
+:q!
+|2,0,1648308042,,"q!"
+:q
+|2,0,1648304971,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,40 +27,280 @@
 # Debug Line History (newest to oldest):
 
 # 寄存器:
+""-	CHAR	0
+	oIFaud
+|3,1,36,0,1,0,1648307841,"oIFaud"
 
 # 文件标记:
-'0  1  0  C:\etc\ssh\sshd_config
-|4,48,1,0,1647518298,"C:\\etc\\ssh\\sshd_config"
-'1  1  39  C:\Scoop\apps\gpg\current\home\sshcontrol
-|4,49,1,39,1647438865,"C:\\Scoop\\apps\\gpg\\current\\home\\sshcontrol"
-'2  4  17  C:\Scoop\apps\gpg\current\home\gpg-agent.conf
-|4,50,4,17,1647438819,"C:\\Scoop\\apps\\gpg\\current\\home\\gpg-agent.conf"
+'0  6  83  D:\Giscus\.env.local
+|4,48,6,83,1648308151,"D:\\Giscus\\.env.local"
+'1  5  116  D:\Giscus\.env.local
+|4,49,5,116,1648308042,"D:\\Giscus\\.env.local"
+'2  5  116  D:\Giscus\.env.local
+|4,50,5,116,1648308042,"D:\\Giscus\\.env.local"
+'3  5  2040  D:\Giscus\.env.local
+|4,51,5,2040,1648307845,"D:\\Giscus\\.env.local"
+'4  5  2040  D:\Giscus\.env.local
+|4,52,5,2040,1648307845,"D:\\Giscus\\.env.local"
+'5  5  477  D:\Giscus\.env.local
+|4,53,5,477,1648307659,"D:\\Giscus\\.env.local"
+'6  5  477  D:\Giscus\.env.local
+|4,54,5,477,1648307659,"D:\\Giscus\\.env.local"
+'7  5  477  D:\Giscus\.env.local
+|4,55,5,477,1648307659,"D:\\Giscus\\.env.local"
+'8  5  477  D:\Giscus\.env.local
+|4,56,5,477,1648307659,"D:\\Giscus\\.env.local"
+'9  11  40  D:\Giscus\.env.local
+|4,57,11,40,1648307659,"D:\\Giscus\\.env.local"
 
 # 跳转列表 (从新到旧):
--'  1  0  C:\etc\ssh\sshd_config
-|4,39,1,0,1647518298,"C:\\etc\\ssh\\sshd_config"
--'  1  39  C:\Scoop\apps\gpg\current\home\sshcontrol
-|4,39,1,39,1647438865,"C:\\Scoop\\apps\\gpg\\current\\home\\sshcontrol"
--'  1  39  C:\Scoop\apps\gpg\current\home\sshcontrol
-|4,39,1,39,1647438865,"C:\\Scoop\\apps\\gpg\\current\\home\\sshcontrol"
--'  4  17  C:\Scoop\apps\gpg\current\home\gpg-agent.conf
-|4,39,4,17,1647438819,"C:\\Scoop\\apps\\gpg\\current\\home\\gpg-agent.conf"
--'  4  17  C:\Scoop\apps\gpg\current\home\gpg-agent.conf
-|4,39,4,17,1647438819,"C:\\Scoop\\apps\\gpg\\current\\home\\gpg-agent.conf"
--'  4  17  C:\Scoop\apps\gpg\current\home\gpg-agent.conf
-|4,39,4,17,1647438819,"C:\\Scoop\\apps\\gpg\\current\\home\\gpg-agent.conf"
--'  4  17  C:\Scoop\apps\gpg\current\home\gpg-agent.conf
-|4,39,4,17,1647438819,"C:\\Scoop\\apps\\gpg\\current\\home\\gpg-agent.conf"
--'  1  0  C:\Scoop\apps\gpg\current\home\gpg-agent.conf
-|4,39,1,0,1647438807,"C:\\Scoop\\apps\\gpg\\current\\home\\gpg-agent.conf"
--'  1  0  C:\Scoop\apps\gpg\current\home\gpg-agent.conf
-|4,39,1,0,1647438807,"C:\\Scoop\\apps\\gpg\\current\\home\\gpg-agent.conf"
--'  1  0  C:\Scoop\apps\gpg\current\home\gpg-agent.conf
-|4,39,1,0,1647438807,"C:\\Scoop\\apps\\gpg\\current\\home\\gpg-agent.conf"
--'  1  0  C:\Scoop\apps\gpg\current\home\gpg-agent.conf
-|4,39,1,0,1647438807,"C:\\Scoop\\apps\\gpg\\current\\home\\gpg-agent.conf"
+-'  6  83  D:\Giscus\.env.local
+|4,39,6,83,1648308151,"D:\\Giscus\\.env.local"
+-'  5  116  D:\Giscus\.env.local
+|4,39,5,116,1648308044,"D:\\Giscus\\.env.local"
+-'  5  116  D:\Giscus\.env.local
+|4,39,5,116,1648308042,"D:\\Giscus\\.env.local"
+-'  5  2040  D:\Giscus\.env.local
+|4,39,5,2040,1648307845,"D:\\Giscus\\.env.local"
+-'  11  40  D:\Giscus\.env.local
+|4,39,11,40,1648307822,"D:\\Giscus\\.env.local"
+-'  11  40  D:\Giscus\.env.local
+|4,39,11,40,1648307822,"D:\\Giscus\\.env.local"
+-'  11  40  D:\Giscus\.env.local
+|4,39,11,40,1648307659,"D:\\Giscus\\.env.local"
+-'  1  0  D:\Giscus\.env.local
+|4,39,1,0,1648307650,"D:\\Giscus\\.env.local"
+-'  1  0  D:\Giscus\.env.local
+|4,39,1,0,1648307650,"D:\\Giscus\\.env.local"
+-'  1  0  D:\Giscus\.env.local
+|4,39,1,0,1648307650,"D:\\Giscus\\.env.local"
+-'  1  0  D:\Giscus\.env.local
+|4,39,1,0,1648307650,"D:\\Giscus\\.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  6  116  ~\Desktop\new.env.local
+|4,39,6,116,1648305184,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  19  63  ~\Desktop\new.env.local
+|4,39,19,63,1648305085,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304984,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  6  52  ~\Desktop\new.env.local
+|4,39,6,52,1648304982,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304798,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304590,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304590,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304590,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304590,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304590,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304590,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304590,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304590,"~\\Desktop\\new.env.local"
+-'  30  55  ~\Desktop\new.env.local
+|4,39,30,55,1648304590,"~\\Desktop\\new.env.local"
 
 # 文件内的标记历史记录 (从新到旧):
+
+> D:\Giscus\.env.local
+	*	1648308149	0
+	"	6	83
+	^	6	84
+	.	6	0
+	+	5	472
+	+	5	2022
+	+	6	0
+
+> ~\Desktop\new.env.local
+	*	1648305182	0
+	"	6	116
+	^	6	117
+	.	7	0
+	+	1	0
+	+	6	117
+	+	6	1639
+	+	6	52
+	+	6	949
+	+	6	1333
+	+	6	949
+	+	7	0
+
+> ~\Desktop\1.sh
+	*	1648303061	0
+	"	1	97
+	^	1	98
+	.	2	0
+	+	1	1657
+	+	2	0
+
+> D:\docker-compose\calibre-web\docker-compose.yml
+	*	1647865114	0
+	"	1	0
+	^	17	127
+	.	17	126
+	+	17	126
+
+> D:\docker-compose\Jellyfin\docker-compose.yml
+	*	1647613156	0
+	"	1	0
+	^	20	151
+	.	20	150
+	+	20	150
 
 > C:\etc\ssh\sshd_config
 	*	1647518295	0
