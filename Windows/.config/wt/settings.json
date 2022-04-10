@@ -1,4 +1,5 @@
 {
+    "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
     "actions": 
     [
@@ -33,23 +34,24 @@
     "copyFormatting": "none",
     "copyOnSelect": true,
     "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
-    "initialCols": 77,
-    "initialRows": 17,
+    "initialCols": 80,
+    "initialRows": 16,
+    "language": "en-US",
     "profiles": 
     {
         "defaults": 
         {
-            "acrylicOpacity": 0.83999999999999997,
             "backgroundImage": null,
             "backgroundImageOpacity": 0.88,
             "colorScheme": "Dracula Origin",
             "cursorShape": "underscore",
             "font": 
             {
-                "face": "FiraCode NF",
-                "size": 12,
+                "face": "FantasqueSansMono NF",
+                "size": 14,
                 "weight": "normal"
             },
+            "opacity": 100,
             "padding": "3",
             "scrollbarState": "visible",
             "startingDirectory": null,
@@ -58,13 +60,11 @@
         "list": 
         [
             {
-                "commandline": "powershell.exe",
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
                 "name": "Windows PowerShell"
             },
             {
-                "commandline": "cmd.exe",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
                 "name": "\u547d\u4ee4\u63d0\u793a\u7b26"
@@ -88,6 +88,12 @@
                 "guid": "{f329e14d-11cc-463b-84c0-dca24ef29220}",
                 "icon": "C:\\Users\\admin\\.config\\wt\\debian.png",
                 "name": "Local Debain Server"
+            },
+            {
+                "commandline": "C:/Program Files/Git/bin/bash.exe -i -l",
+                "guid": "{51a0ceae-bb7a-4499-bc5b-3530bbd744c7}",
+                "icon": "C:/Program Files/Git/mingw64/share/git/git-for-windows.ico",
+                "name": "Git Bash"
             }
         ]
     },
