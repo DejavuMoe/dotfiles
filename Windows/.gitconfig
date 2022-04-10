@@ -1,5 +1,5 @@
 [gpg]
-	program = C:\\\\Scoop\\\\apps\\\\gpg\\\\current\\\\bin\\\\gpg.exe
+	program = C:/Scoop/apps/gnupg/current/bin/gpg.exe
 [user]
 	signingkey = AB85E2D677CA9A84
 	name = DejavuMoe
@@ -7,7 +7,6 @@
 [commit]
 	gpgsign = true
 [core]
-	sshcommand = plink -agent
 	autocrlf = true
 	safecrlf = warn
 [init]

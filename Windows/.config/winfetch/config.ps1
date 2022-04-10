@@ -21,13 +21,13 @@
 # }
 
 # Configure which disks are shown
- $ShowDisks = @("C:", "D:")
+# $ShowDisks = @("C:", "D:")
 # Show all available disks
-# $ShowDisks = @("*")
+ $ShowDisks = @("*")
 
 # Configure which package managers are shown
 # disabling unused ones will improve speed
-$ShowPkgs = @("scoop")
+ $ShowPkgs = @( "scoop")
 
 # Use the following option to specify custom package managers.
 # Create a function with that name as suffix, and which returns
@@ -46,35 +46,35 @@ $ShowPkgs = @("scoop")
 # 'textbar' is for text + bar.
 # 'bartext' is for bar + text.
 # $cpustyle = 'bar'
-$memorystyle = 'bartext'
-$diskstyle = 'bartext'
-$batterystyle = 'bartext'
+ $memorystyle = 'bartext'
+ $diskstyle = 'bartext'
+# $batterystyle = 'bartext'
 
 
 # Remove the '#' from any of the lines in
 # the following to **enable** their output.
 
 @(
-    # "title"
-    # "dashes"
+   # "title"
+   # "dashes"
     "os"
     "computer"
     "kernel"
-    "motherboard"
-    # "custom_time"  # use custom info line
+   # "motherboard"
+   # "custom_time"  # use custom info line
     "uptime"
     # "ps_pkgs"  # takes some time
     "pkgs"
     "pwsh"
-    # "resolution"
+    "resolution"
     "terminal"
-    # "theme"
+     "theme"
     "cpu"
     "gpu"
     # "cpu_usage"  # takes some time
     "memory"
     "disk"
-    #"battery"
+    # "battery"
     # "locale"
     # "weather"
     # "local_ip"
