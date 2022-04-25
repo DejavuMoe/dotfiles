@@ -1,0 +1,26 @@
+
+[32;1mName                Version         Source   Updated             Info[0m
+[32;1m----                -------         ------   -------             ----[0m
+7zip                21.07           main     2022-04-08 23:04:26 
+adb                 33.0.1          main     2022-04-09 13:04:35 
+aria2               1.36.0-1        main     2022-04-08 23:04:30 
+busybox             4621-gf3c5e8bc3 main     2022-04-10 16:04:56 
+dark                3.11.2          main     2022-04-09 00:04:37 
+dismplusplus        10.1.1002.1     extras   2022-04-09 00:04:04 
+driverstoreexplorer 0.11.79         extras   2022-04-10 15:04:25 
+everything          1.4.1.1015      extras   2022-04-15 20:04:52 
+ffmpeg-shared       5.0.1           main     2022-04-09 18:04:35 
+geekuninstaller     1.4.9.151       extras   2022-04-09 13:04:58 
+gh                  2.8.0           main     2022-04-17 18:04:25 
+gnupg               2.3.5           main     2022-04-23 18:04:38 
+hugo-extended       0.97.3          main     2022-04-20 20:04:36 
+nodejs-lts          16.14.2         main     2022-04-09 00:04:54 
+openjdk             17.0.2-8        java     2022-04-09 00:04:12 
+python38            3.8.10          versions 2022-04-09 00:04:56 
+screentogif         2.36            extras   2022-04-17 18:04:17 
+snipaste-beta       2.7.3-Beta      versions 2022-04-09 01:04:11 
+sudo                0.2020.01.26    main     2022-04-08 23:04:31 
+win-gpg-agent       1.6.1           extras   2022-04-20 20:04:00 
+winscp              5.19.6          extras   2022-04-10 21:04:45 
+yarn                1.22.18         main     2022-04-09 10:04:33 
+
