@@ -1,5 +1,3 @@
-[gpg]
-	program = C:/Scoop/apps/gnupg/current/bin/gpg.exe
 [user]
 	signingkey = AB85E2D677CA9A84
 	name = DejavuMoe
@@ -15,3 +13,5 @@
 	selected = <no helper>
 [color]
 	ui = auto
+[gpg]
+	program = C:/Scoop/apps/gnupg/current/bin/gpg.exe

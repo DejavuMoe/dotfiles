@@ -42,13 +42,13 @@
         "defaults": 
         {
             "backgroundImage": null,
-            "backgroundImageOpacity": 0.88,
+            "backgroundImageOpacity": 1.0,
             "colorScheme": "Dracula Origin",
             "cursorShape": "underscore",
             "font": 
             {
                 "face": "FantasqueSansMono NF",
-                "size": 14,
+                "size": 13,
                 "weight": "normal"
             },
             "opacity": 100,
@@ -84,16 +84,23 @@
                 "startingDirectory": "%USERPROFILE%"
             },
             {
-                "commandline": "ssh -p 22 dejavu@192.168.0.103",
+                "commandline": "ssh -p 22 root@192.168.0.104",
                 "guid": "{f329e14d-11cc-463b-84c0-dca24ef29220}",
-                "icon": "C:\\Users\\admin\\.config\\wt\\debian.png",
-                "name": "Local Debain Server"
+                "icon": "C:\\Users\\admin\\.config\\wt\\ubuntu.png",
+                "name": "Ubuntu Server"
             },
             {
                 "commandline": "C:/Program Files/Git/bin/bash.exe -i -l",
                 "guid": "{51a0ceae-bb7a-4499-bc5b-3530bbd744c7}",
                 "icon": "C:/Program Files/Git/mingw64/share/git/git-for-windows.ico",
                 "name": "Git Bash"
+            },
+            {
+                "commandline": "ssh -p 22 dejavu@192.168.0.103",
+                "guid": "{79769f41-7b8c-492c-9b75-4da0bb9f2a45}",
+                "hidden": false,
+                "icon": "C:\\Users\\admin\\.config\\wt\\debian.png",
+                "name": "Debian Server"
             }
         ]
     },
@@ -6705,5 +6712,6 @@
     "showTerminalTitleInTitlebar": true,
     "tabWidthMode": "equal",
     "theme": "dark",
-    "trimBlockSelection": true
+    "trimBlockSelection": true,
+    "useAcrylicInTabRow": false
 }
