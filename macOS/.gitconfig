@@ -1,0 +1,13 @@
+[core]
+	excludesfile = /Users/dejavu/.gitignore
+	autocrlf = input
+[user]
+	name = DejavuMoe
+	email = admin@dejavu.moe
+	signingkey = 04A795E03CF4462F
+[commit]
+	gpgsign = true
+[gpg]
+	program = /opt/homebrew/bin/gpg
+[init]
+	defaultBranch = master
