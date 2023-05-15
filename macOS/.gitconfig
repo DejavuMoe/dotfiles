@@ -1,0 +1,22 @@
+[core]
+	excludesfile = /Users/dejavu/.gitignore
+	autocrlf = input
+[user]
+	name = DejavuMoe
+	email = admin@dejavu.moe
+	signingkey = 8422222222222222
+[commit]
+	gpgsign = true
+[gpg]
+	program = /opt/homebrew/bin/gpg
+[init]
+	defaultBranch = master
+[credential]
+	helper = osxkeychain
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[push]
+	autoSetupRemote = true
