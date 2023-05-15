@@ -1040,7 +1040,7 @@
 			<key>Non-ASCII Ligatures</key>
 			<false/>
 			<key>Normal Font</key>
-			<string>FiraCodeNFP-Reg 16</string>
+			<string>FiraCodeNF-Reg 16</string>
 			<key>Open Toolbelt</key>
 			<false/>
 			<key>Option Key Sends</key>
@@ -1312,7 +1312,7 @@
 		</dict>
 	</dict>
 	<key>PreferSpeedToFullLigatureSupport</key>
-	<true/>
+	<false/>
 	<key>PromptOnQuit</key>
 	<false/>
 	<key>RightOption</key>
