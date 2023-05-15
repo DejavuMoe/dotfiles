@@ -1,0 +1,10 @@
+{
+  "lastUpdate": "2022-05-29T08:02:40.3030669+08:00",
+  "SCOOP_REPO": "https://github.com/ScoopInstaller/Scoop",
+  "SCOOP_BRANCH": "master",
+  "aria2-retry-wait": 5,
+  "aria2-split": 32,
+  "aria2-max-connection-per-server": 16,
+  "aria2-min-split-size": "1M",
+  "aria2-warning-enabled": false
+}
